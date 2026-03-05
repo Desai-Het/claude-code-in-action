@@ -1,6 +1,6 @@
 # claude-code-in-action
 
-# UIGen
+## GenUI
 
 AI-powered React component generator with live preview.
 
