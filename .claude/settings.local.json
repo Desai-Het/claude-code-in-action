@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(claude auth:*)",
+      "Bash(start:*)",
+      "mcp__playwright",
+      "Bash(curl:*)",
+      "WebFetch(domain:localhost)"
+    ],
+    "deny": []
+  }
+}
