@@ -1,5 +1,6 @@
 # claude-code-in-action
-[![View Certificate]([YOUR_CERTIFICATE_IMAGE_URL](https://github.com/Desai-Het/claude-code-in-action/blob/1f11512ecfc327f6fd75fe6adee834c2208b9a2c/claude-code-in-action.png))]([YOUR_CERTIFICATE_IMAGE_URL](https://github.com/Desai-Het/claude-code-in-action/blob/1f11512ecfc327f6fd75fe6adee834c2208b9a2c/claude-code-in-action.png))
+[![View Certificate]([YOUR_CERTIFICATE_IMAGE_URL](https://github.com/Desai-Het/claude-code-in-action/blob/main/claude-code-in-action.png))]([YOUR_CERTIFICATE_IMAGE_URL](https://github.com/Desai-Het/claude-code-in-action/blob/main/claude-code-in-action.png))
+
 
 
 
