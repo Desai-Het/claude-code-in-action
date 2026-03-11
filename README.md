@@ -1,4 +1,6 @@
 # claude-code-in-action
+[![View Certificate]([YOUR_CERTIFICATE_IMAGE_URL](https://github.com/Desai-Het/claude-code-in-action/blob/main/claude-code-in-action.png?raw=true))]([YOUR_CERTIFICATE_IMAGE_URL](https://github.com/Desai-Het/claude-code-in-action/blob/main/claude-code-in-action.png?raw=true))
+
 
 ## GenUI
 
